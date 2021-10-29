@@ -1,0 +1,882 @@
+[
+    {
+        "id": 0,
+        "question": "Las SGBD más extendidos ...",
+        "answers": [
+            "están basados en el modelo de BD relacional",
+            "están basados en el modelo de BD orientado a objetos",
+            "están basados en el modelo de BD monusuario",
+            "están basados en el modelo de BD jerárquico"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 1,
+        "question": "El comando SHOW DATABASES permite:",
+        "answers": [
+            "Visualizar el conjunto de las bases de datos del servidor.",
+            "Ninguna es correcta.",
+            "Visualizar el conjunto de bases de datos del diccionario.",
+            "Visualizar el conjunto de bases de datos de la máquina."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 2,
+        "question": "Una vez que hemos instalado nuestro servidor para poder iniciarlo debemos escribir el comando:",
+        "answers": [
+            "mysql",
+            "Todas son correctas.",
+            "mysql –u root –p",
+            "mysql –e “select user”"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 3,
+        "question": "El comité ANSI-SPARC ...",
+        "answers": [
+            "define una arquitectura conceptual sin niveles",
+            "define una arquitectura hardware de tres niveles",
+            "define una arquitectura conceptual de tres niveles",
+            "define una arquitectura conceptual de cuatro niveles"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 4,
+        "question": "Un SGBD garantiza ...",
+        "answers": [
+            "cumplimiento de restricciones",
+            "todas las anteriores",
+            "concurrencia, integridad",
+            "recuperación"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 5,
+        "question": "Un SGBD está formado por ...",
+        "answers": [
+            "DDL, CCL y DML",
+            "DLL, SQL y DML",
+            "DLL, DCL y DML",
+            "SQL, noSQL, Oracle"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 6,
+        "question": "Los objetos de un SGBD son ...",
+        "answers": [
+            "componentes del catálogo",
+            "Herramientas",
+            "planificadores",
+            "Tablas y vistas"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 7,
+        "question": "Los SGBD libres ...",
+        "answers": [
+            "no disponen de información al cliente adecuada",
+            "pueden no ser apropiados para grandes corporaciones",
+            "no merecen la pena",
+            "no existen en el mercado"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 8,
+        "question": "La independencia física",
+        "answers": [
+            "permite modificar el nivel lógico sin modificar el nivel externo",
+            "permite modificar el nivel físico sin modificar el nivel lógico",
+            "permite modificar el nivel lógico sin modificar el nivel físico",
+            "permite modificar el nivel externo sin modificar el nivel lógico"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 9,
+        "question": "Un SGBD es un ...",
+        "answers": [
+            "software",
+            "modelo conceptual",
+            "hardware",
+            "organismo de estandarización"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 10,
+        "question": "La función principal de un SGBS es ...",
+        "answers": [
+            "permitir a los usuarios consultar",
+            "permitir a los usuarios modificar una BD",
+            "permitir a los usuarios crear, insertar consultar, actualizar y borrar",
+            "permitir a los usuarios crear BD"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 11,
+        "question": "Respecto al diccionario de la base de datos podemos decir que el conjunto de sentencias que se pueden ejecutar son:",
+        "answers": [
+            "Podemos ejecutar sólo insert.",
+            "Podemos ejecutar select, insert, update.",
+            "Podemos ejecutar sólo select.",
+            "Cualquier sentencia puede ser ejecutada."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 12,
+        "question": "El directorio donde se encuentran todos los ejecutables necesarios para el funcionamiento de Mysql se denomina:",
+        "answers": [
+            "Data",
+            "Bin",
+            "Share",
+            "Lib"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 13,
+        "question": "Una base de datos es ...",
+        "answers": [
+            "un conjunto de datos que están relacionados",
+            "un gestor de un SGBD",
+            "un conjunto de datos en un fichero",
+            "un gestor de una fichero de datos"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 14,
+        "question": "¿Qué es SQL?",
+        "answers": [
+            "es un DML estándar de las BD relacionales",
+            "es un DCL estándar de las BD relacionales",
+            "es un tipo de base de datos relacional",
+            "es un DLL estándar de las BD relacionales"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 15,
+        "question": "Un SGBD dispone de herramientas de ...",
+        "answers": [
+            "optimización únicamente",
+            "monitorización, optimización y control de acceso",
+            "control de accesos únicamente",
+            "monitorización únicamente"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 16,
+        "question": "El nivel externo definido por ANSI-SPARC",
+        "answers": [
+            "describe las entidades y relaciones de la BD",
+            "describe la estructura lógica de la BD",
+            "describe las vistas de usuario",
+            "describe la estructura física de la BD"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 17,
+        "question": "Cassandra y Mongo DB son un tipo de base de datos:",
+        "answers": [
+            "SQL",
+            "Jerárquica",
+            "NoSQL",
+            "Híbrida"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 18,
+        "question": "Un SGBD es ...",
+        "answers": [
+            "un gestor de un fichero de datos",
+            "un conjunto de datos en un fichero",
+            "un gestor de una BD",
+            "un conjunto de datos relacionados"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 19,
+        "question": "Un catálogo de un SGBD ...",
+        "answers": [
+            "describe los datos de la BD",
+            "describe los datos del SGBD",
+            "describe los tipos de SGBD disponibles",
+            "describe los datos del fabricante de SGBD"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 20,
+        "question": "Las sentencias de permisos más importantes son:",
+        "answers": [
+            "GRANT y MAX_QUERIES_PER_HOUR",
+            "GRANT y DROP",
+            "GRANT y SELECT",
+            "GRANT y REVOKE"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 21,
+        "question": "Los roles ...",
+        "answers": [
+            "tienen predefinidos los nombres de cuenta",
+            "tienen predefinidos los passwords",
+            "son un tipo de usuario",
+            "tienen predefinidos los permisos"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 22,
+        "question": "MySQL Community Edition ...",
+        "answers": [
+            "es un SGBD libre temporalmente",
+            "no utiliza una licencia GPL",
+            "es SGBD comercial",
+            "utiliza una licencia GPL"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 23,
+        "question": "La seguridad nativa de la BD ...",
+        "answers": [
+            "la proporciona el SO",
+            "la proporcionan ambos",
+            "no la proporciona ninguno",
+            "la proporciona el SGBD"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 24,
+        "question": "¿Cuál es la sintaxis básica correcta?",
+        "answers": [
+            "mysql -h[password]",
+            "mysql -p[user_name]",
+            "mysql --p[password]",
+            "mysql -p[password]"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 25,
+        "question": "El modelo de dos capas ...",
+        "answers": [
+            "el servidor y los clientes están en diferentes ordenadores",
+            "es un SGBD con un entorno gráfico de gestión",
+            "es un servidor distribuido",
+            "el servidor y los clientes están en el mismo ordenador"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 26,
+        "question": "INFORMATION_SCHEMA es ...",
+        "answers": [
+            "una tabla con información sobre las tablas de la base de datos",
+            "una table con información sobre las vistas de las bases de datos",
+            "una tabla con información de las bases de datos",
+            "el diccionario de una BD"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 27,
+        "question": "¿Qué es MySQL?",
+        "answers": [
+            "es una base de datos",
+            "es un estándar de base de datos",
+            "es un gestor de bases de datos",
+            "es un lenguaje de programación"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 28,
+        "question": "Las vistas de una tabla ...",
+        "answers": [
+            "se almacena su definición, no los datos",
+            "son un tipo de tabla",
+            "no se almacena su definición ni los datos",
+            "no se almacena su definición pero si los datos"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 29,
+        "question": "La aplicación MySQL Workbench es ...",
+        "answers": [
+            "se realiza a nivel de línea de comando de msdos",
+            "se realiza a nivel de línea de comando de MySQL",
+            "un entorno gráfico de gestión de MySQL",
+            "es una aplicación cliente de MySQL Server"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 30,
+        "question": "El comando: shell> mysqldump a > b.sql",
+        "answers": [
+            "hace un backup de la base de datos b.sql",
+            "hace un backup de la base de datos a",
+            "no puede ejecutarse este comando fuera de mysql",
+            "restaura el backup en la base de datos a"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 31,
+        "question": "En donde buscarías los triggers y eventos de la BD  ...",
+        "answers": [
+            "en el diccionario de metadatos INFORMATION_SCHEMA",
+            "en el archivo de configuración my.ini",
+            "en los ficheros de registro",
+            "MySQL tiene un script predefinido"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 32,
+        "question": "¿Qué es un script?",
+        "answers": [
+            "es un guión de producción",
+            "es un lenguaje de programación de guiones",
+            "es un estándar de base de datos",
+            "es un guión de administración"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 33,
+        "question": "Un backup en caliente ...",
+        "answers": [
+            "siempre almacena todas las bases de datos del servidor",
+            "no permite que los usuarios se conecten a la base de datos",
+            "puede comprometer la seguridad de la copia",
+            "es un backup en background"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 34,
+        "question": "Los scripts son muy útiles también para ...",
+        "answers": [
+            "los ficheros log no pueden gestionarse con scripts",
+            "enviar por email ficheros de log",
+            "extraer información de los ficheros de log",
+            "hacer backup de los ficheros de log"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 35,
+        "question": "¿Qué es un script bash?",
+        "answers": [
+            "es un guión de producción",
+            "es un script ejecutado en SQL",
+            "es un guión de administración SQL",
+            "es un script ejecutado desde el SO"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 36,
+        "question": "¿Qué extensión se da a un fichero bash?",
+        "answers": [
+            "*.bas",
+            "*.bsh",
+            "*.bhs",
+            "*.sh"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 37,
+        "question": "Las vistas ..",
+        "answers": [
+            "es un tipo de query",
+            "facilitan la visualización de las tablas",
+            "permiten acceder a partes de una tabla",
+            "son partes de una tabla"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 38,
+        "question": "¿Cómo comienza un script bash?",
+        "answers": [
+            "#!/bash",
+            "#!/bin/bash",
+            "#/bin/bash",
+            "#!/bin"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 39,
+        "question": "En Unix, el crontab ...",
+        "answers": [
+            "contiene los scripts planificados",
+            "ejecuta comandos solo una vez en el momento programado",
+            "es el comando utilizado para manejar el cron",
+            "es un timer"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 40,
+        "question": "Un backup en crudo (raw) ...",
+        "answers": [
+            "solamente almacena los datos",
+            "solamente almacena los datos que han cambiado",
+            "almacena los ficheros tal cual",
+            "solamente almacena las tablas que han cambiado"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 41,
+        "question": "Un disparador en MySQL puede ser activado por  ...",
+        "answers": [
+            "INSERT, UPDATE ó DELETE en una tabla",
+            "CREATE, ALTER, SHOW en una vista",
+            "CREATE, ALTER, SHOW en una tabla",
+            "INSERT, UPDATE ó DELETE en una vista"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 42,
+        "question": "Si un scrip no requiere la actuación del DBA ...",
+        "answers": [
+            "no puede ejecutarse en background (acabado en &amp;)",
+            "puede ejecutarse en background (acabado en &amp;)",
+            "puede ejecutarse en background (acabado en %)",
+            "no puede ejecutarse en background (acabado en &amp;%)"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 43,
+        "question": "En SQL Oracle, los disparadores ...",
+        "answers": [
+            "sus valores son 0 ó cualquier valor",
+            "debe estar en OFF activar el programador de eventos",
+            "pueden activarse por eventos del sistema",
+            "activa el programador de eventos"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 44,
+        "question": "Un evento en MySQL puede ser activado por  ...",
+        "answers": [
+            "el DBA",
+            "un intervalo de tiempo fijo",
+            "un intervalo de tiempo programable",
+            "un evento en la base de datos programable"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 45,
+        "question": "Un script para enviar incidencias por correo electrónico ...",
+        "answers": [
+            "es un script SQL",
+            "es un script del sistema operativo",
+            "nunca puede adjuntar archivos",
+            "no se puede implementar"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 46,
+        "question": "Un disparador ...",
+        "answers": [
+            "depende de eventos que ocurren en una tabla",
+            "depende de eventos que ocurren en una vista",
+            "depende de una marca temporal",
+            "depende de eventos del sistema"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 47,
+        "question": "¿Cómo se ejecuta un script bash?",
+        "answers": [
+            "shell&gt; source script.sh",
+            "shell&gt; #./script.sh",
+            "mysql&gt; source script.sh",
+            "shell&gt; ./script.sql"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 48,
+        "question": "BEFORE en un trigger ...",
+        "answers": [
+            "el disparador se ejecuta después que la sentencia que lo activa",
+            "significa que el disparador se ejecuta antes que la sentencia que lo activa",
+            "es una sintaxis incorrecta",
+            "indica que lo activa una sentencia INSERT"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 49,
+        "question": "La variable global_event_scheduler  ...",
+        "answers": [
+            "activa el programador de eventos",
+            "sus valores son 0 ó cualquier valor",
+            "activa el programador de triggers",
+            "debe estar en OFF activar el programador de eventos"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 50,
+        "question": "En general el backup más recomendable es ...",
+        "answers": [
+            "backup en frío + sucesivos calientes",
+            "backup raw + sucesivos lógico",
+            "backup completo + sucesivos completos",
+            "backup completo + sucesivos incrementales"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 51,
+        "question": "ALTER TABLE clientes ADD INDEX (ciudad) ...",
+        "answers": [
+            "modifica la tabla clientes, le añade la columna ciudad que es un índice",
+            "crea una tabla ciudad con un índice en clientes",
+            "crea un índice en la columna ciudad de la tabla clientes",
+            "modifica la tabla ciudad, le añade la columna clientes que es un índice"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 52,
+        "question": "Las principales variables de red son:",
+        "answers": [
+            "timeout_connect, max_connect_errors, max_allowed_packet",
+            "connect_timeout, max_connect_errors, max_size_packet",
+            "connect_timeout, max_connect_errors, max_allowed_packet",
+            "connect_timeout, max_errors_connect, max_allowed_packet"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 53,
+        "question": "La memoria caché …",
+        "answers": [
+            "no es una memoria RAM",
+            "es una memoria para consultas",
+            "es una memoria de backup",
+            "es una memoria para datos en general"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 54,
+        "question": "mysqldump ...",
+        "answers": [
+            "realiza un back up incremental de una BD",
+            "realiza un back up de datos raw de una BD",
+            "realiza un back up lógico de una BD",
+            "realiza un back up en caliente de una BD"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 55,
+        "question": "Cuál dirías es más importante para optimizar los accesos I/O  ...",
+        "answers": [
+            "solamente caché",
+            "solamente tiempo de latencia",
+            "caché y tiempo de latencia",
+            "ninguna de las anteriores"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 56,
+        "question": "Los buffers se utilizan sobre todo en ...",
+        "answers": [
+            "consultas frecuentes",
+            "backups lógicos",
+            "ordenaciones, joins, búsquedas, etc.",
+            "backups in-place"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 57,
+        "question": "Si necesito información sobre el estado de las variables del sistema …",
+        "answers": [
+            "SHOW [db_name] VARIABLES [LIKE 'pattern' | WHERE expr]",
+            "SHOW [GLOBAL | SESSION] VARIABLES [LIKE 'pattern' | WHERE expr]",
+            "SHOW [GLOBAL | SESSION] VARIABLES [AS 'pattern' | WHERE expr]",
+            "SHOW [GLOBAL | SESSION] [LIKE 'pattern' | WHERE expr]"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 58,
+        "question": "Para crear una tabla temporal ...",
+        "answers": [
+            "se añade EXPLAIN = MEMORY a CREATE TABLE",
+            "se añade ENGINE = MEMORY a CREATE TABLE",
+            "se añade ENGINE = EXPLAIN a CREATE TABLE",
+            "se añade ENGINE = INNODB a CREATE TABLE"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 59,
+        "question": "Si quiero ver los índices de una tabla …",
+        "answers": [
+            "SHOW COLUMNS FROM table_name",
+            "SHOW INDEX FROM  table_name",
+            "SHOW TABLE STATUS table_name",
+            "SHOW table_name"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 60,
+        "question": "El principal objetivo de las BD distribuidas es …",
+        "answers": [
+            "la complejidad",
+            "la escalabilidad",
+            "la disponibilidad",
+            "la eficiencia"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 61,
+        "question": "El nodo maestro ...",
+        "answers": [
+            "es un nodo gestor, no de datos",
+            "no tiene los datos originales",
+            "es en el que se realizan las consultas de datos",
+            "es en el que se realizan las modificaciones de datos"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 62,
+        "question": "La disponibilidad ...",
+        "answers": [
+            "mejora con las bases de datos distribuidas y replicadas",
+            "no tiene nada que ver ni con la distribución ni la replicación",
+            "no mejora con las bases de datos distribuidas",
+            "no mejora con las bases de datos replicadas"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 63,
+        "question": "Un componente fundamental de una BD distribuida es …",
+        "answers": [
+            "el diccionario de datos global",
+            "el log general de consultas",
+            "el fichero de configuración config.ini",
+            "el fichero de configuración my.ini"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 64,
+        "question": "Una replicación en MySQL normal es ...",
+        "answers": [
+            "no es posible",
+            "es solo posible con MySQL Cluster",
+            "posible pero asíncronamente",
+            "posible pero síncronamente"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 65,
+        "question": "Un BD distribuida homogénea …",
+        "answers": [
+            "los datos están distribuidos",
+            "los datos están centralizados",
+            "el SGBD es el mismo en todas las BD locales",
+            "el SGBD no es el mismo en todas las BD locales"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 66,
+        "question": "mysqlbinlog ...",
+        "answers": [
+            "es un programa para recuperar los registros binarios",
+            "es un programa que hace el backup incremental",
+            "es un programa que permite visualizar registros binarios",
+            "es un programa para replicar los registros binarios."
+        ],
+        "correct": 2
+    },
+    {
+        "id": 67,
+        "question": "La solución de MySQL para BD distribuidas es …",
+        "answers": [
+            "MySQL Monitor",
+            "MySQL Workbench",
+            "MySQL Cluster",
+            "MySQL Server"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 68,
+        "question": "Las BD distribuidas son más complejas ...",
+        "answers": [
+            "son más difíciles de utilizar para los usuarios",
+            "y además no son transparentes a los usuarios",
+            "pero son transparentes a los usuarios",
+            "pero compensa a los usuarios la dificultad"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 69,
+        "question": "La replicación es idónea ...",
+        "answers": [
+            "en BD donde se realizan muchas consultas y pocas escrituras",
+            "en BD donde se realizan muchas escrituras",
+            "en BD donde se realizan muchas escrituras y pocas consultas",
+            "en BD donde no se realizan muchas consultas"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 70,
+        "question": "Los logs binarios que se acumulan se borran con ...",
+        "answers": [
+            "PURGE MASTER LOGS UP TO",
+            "PURGUE MASTER LOGS TO",
+            "DELETE MASTER LOGS TO",
+            "DELETE BINARY LOGS TO"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 71,
+        "question": "¿Con qué sentencia se dan permisos de replicación al maestro ...",
+        "answers": [
+            "GRANT REPLICATION SLAVE ON",
+            "CREATE USER",
+            "CREATE USER PRIVILEDGES ON",
+            "GRANT MASTER PRIVILEGES ON"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 72,
+        "question": "Una sentencia INSERT se realiza ...",
+        "answers": [
+            "es indiferente",
+            "nunca en el nodo maestro",
+            "siempre en el nodo esclavo",
+            "siempre en el nodo maestro"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 73,
+        "question": "En una base de datos distribuida …",
+        "answers": [
+            "el SGBD no puede estar centralizado",
+            "el SGBD tiene que ser el mismo en todas las BD locales",
+            "el SGBD no tiene que ser el mismo en todas las BD locales",
+            "el SGBD está distribuido en las BD locales"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 74,
+        "question": "La fragmentación horizontal …",
+        "answers": [
+            "se divide la tabla según la memoria que ocupa",
+            "no se divide la tabla por el contenido de una columna",
+            "se divide la tabla según los campos",
+            "se divide la tabla por el contenido de una columna"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 75,
+        "question": "SHOW MASTER STATUS ...",
+        "answers": [
+            "proporciona file y position necesarios para configurar el maestro",
+            "proporciona información de estado del esclavo",
+            "proporciona file y position necesarios para configurar el log binario",
+            "proporciona file y position necesarios para configurar el esclavo"
+        ],
+        "correct": 3
+    },
+    {
+        "id": 76,
+        "question": "Si se fragmenta una tala en dos partes A y B debe cumplirse ...",
+        "answers": [
+            "la tabla completa no es A U B",
+            ". A ∩ B = 0 en cualquier caso",
+            "la tabla completa es A U B",
+            "A ∩ B ≠ 0, sin considerar las claves primarias"
+        ],
+        "correct": 2
+    },
+    {
+        "id": 77,
+        "question": "En el funcionamiento de una BD replicada es fundamental …",
+        "answers": [
+            "el log de errores",
+            "el log binario",
+            "el registro de consultas lentas",
+            "el log de consultas"
+        ],
+        "correct": 1
+    },
+    {
+        "id": 78,
+        "question": "Un cluster de MySQL:",
+        "answers": [
+            "tiene nodos de datos replicados",
+            "es una estructura de nodos replicados",
+            "no tiene nodos de datos",
+            "no tiene datos replicados"
+        ],
+        "correct": 0
+    },
+    {
+        "id": 79,
+        "question": "El balanceo de carga ...",
+        "answers": [
+            "lo proporciona una BD replicada en MySQL normal",
+            "es posible en una BD replicada",
+            "no es transparente al usuario",
+            "no es posible en un BD replicada"
+        ],
+        "correct": 1
+    }
+]
